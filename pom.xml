@@ -8,7 +8,7 @@
   <name>@ant.project.name@</name>
   <description>@description@</description>
   <url>@project.url@</url>
-
+  <test>Added for test</test>
   <licenses>
     <license>
       <name>The Unlicense</name>
